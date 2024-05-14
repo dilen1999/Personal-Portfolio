@@ -4,49 +4,57 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "In React, I develop user interfaces for projects like the Cycle-sharing-System, online medicine purchase, and various small projects. My work involves creating interactive and dynamic components, handling user input, and managing state for enhanced user experiences."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "In Spring Boot, I utilize its framework for building robust back-end systems to support projects like the Cycle-sharing-System, online medicine purchase, and various small projects. My tasks include developing RESTful APIs, managing data persistence with databases, and implementing business logic for seamless functionality."
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "In UI & UX Design for projects like Cycle-sharing-System, online medicine purchase, and Job portal app, I craft intuitive interfaces through wireframing, prototyping, and user research. My aim is to ensure usability, accessibility, and visual appeal, optimizing user satisfaction across platforms."
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Database",
+      "description": "In Cycle-sharing-System and online medicine purchase, MySQL databases manage structured data, while the Job portal app employs Firebase for real-time syncing and MongoDB for flexible data handling. In various small projects, database choices are tailored for specific needs, ensuring efficient management and scalability."
     }
   ],
   "portfolio": [
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Cycle Sharing System",
+      "description": "The Cycle Sharing System project involves developing both a mobile app and a web page using React and React Native for versatile user accessibility. Backend functionalities are supported by Spring Boot, ensuring robustness and scalability, while MySQL serves as the database for efficient data management. This monolithic architecture streamlines development and maintenance, offering a cohesive solution for users to access and manage shared cycling resources seamlessly.",
+      "link": "https://github.com/Cyclesharingsystem"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Mobile Application",
+      "description": "JOB GODS is a groundbreaking project developed in semester 5, utilizing Flutter for cross-platform mobile development and Firebase for cloud-based backend services. It revolutionizes job searching by enabling users to effortlessly find vacancies, manage profiles, and reset passwords via OTP, promising seamless and efficient job-seeking experiences.",
+      "link": "https://github.com/dilen1999/Mobile_Application"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Online medicine purchase",
+      "description": "My web application project for online medicine purchase, featuring role-based authentication and CRUD functionality. Built with React for dynamic user interfaces, Spring Boot for robust backend support, and MySQL for efficient data management. Revolutionize your online medicine shopping experience with our streamlined solution!",
+      "link": "https://github.com/dilen1999/4-th-semi-react-project"
+    },
+    {
+      "id": "4",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Student Management System",
+      "description": "My WPF (.NET) application, the Student Management System, operates on MVVM Architecture, enabling seamless CRUD operations. Students can register, upload images, and manage their profiles, including GPA addition, streamlining academic record maintenance. ",
+      "link": "https://github.com/dilen1999/WpfMvvm"
     }
+    
   ],
   "testimonial": [
     {

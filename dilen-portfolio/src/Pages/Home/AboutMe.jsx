@@ -9,16 +9,33 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-            tempora numquam sint odit optio.
+            Third year ComputerEngineering Undergraduate who finds hisself in a
+            real world ruled by progress and productivity. Passionate and
+            innovative Full-Stack Developer with a creative mindset and a strong
+            inclination towards problem-solving. Equipped with a comprehensive
+            skill set spanning both front-end and back-end development, With a
+            proactive and energetic approach, I am dedicated to delivering
+            high-quality products that exceed expectations.
           </p>
-          <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
-          </p>
+          <div>
+            <ul>
+              <li className="hero--section-description">
+                Always eager to know new technology.
+              </li>
+              <li className="hero--section-description">
+                Passionate and innovative Full-Stack Developer with a creative
+                mindset and a strong inclination towards problem-solving.
+              </li>
+              <li className="hero--section-description">
+                Equipped with a comprehensive skill set spanning both
+                front-end and back-end development.
+              </li>
+              <li className="hero--section-description">
+                Dedicated to delivering high-quality products that exceed
+                expectations with a proactive and energetic approach.
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     </section>
