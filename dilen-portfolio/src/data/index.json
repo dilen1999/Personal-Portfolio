@@ -30,7 +30,7 @@
       "id": "1",
       "src": "./img/placeholder-image.png",
       "title": "Cycle Sharing System",
-      "description": "The Cycle Sharing System project involves developing both a mobile app and a web page using React and React Native for versatile user accessibility. Backend functionalities are supported by Spring Boot, ensuring robustness and scalability, while MySQL serves as the database for efficient data management. This monolithic architecture streamlines development and maintenance, offering a cohesive solution for users to access and manage shared cycling resources seamlessly.",
+      "description": "The Cycle Sharing System project involves developing both a mobile app and a web page using React and React Native for versatile user accessibility. Backend functionalities are supported by Spring Boot, ensuring robustness and scalability, while MySQL serves as the database for efficient data management. This monolithic architecture streamlines development and maintenance.",
       "link": "https://github.com/Cyclesharingsystem"
     },
     {
@@ -49,7 +49,7 @@
     },
     {
       "id": "4",
-      "src": "./img/placeholder-image-2.png",
+      "src": "./img/placeholder-image-3.png",
       "title": "Student Management System",
       "description": "My WPF (.NET) application, the Student Management System, operates on MVVM Architecture, enabling seamless CRUD operations. Students can register, upload images, and manage their profiles, including GPA addition, streamlining academic record maintenance. ",
       "link": "https://github.com/dilen1999/WpfMvvm"
@@ -59,25 +59,25 @@
   "testimonial": [
     {
       "id": "1",
-      "count": "5",
+      "count": "1",
       "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Team Cypher, secured the Runners-Up spot in the HaXtreme 2.0 coding competition, highlighting our problem-solving skills and teamwork. This success underscores our commitment to innovation and pushing boundaries in coding. With dedication and collaboration, we persist in exploring new horizons in technology.",
       "author_name": "Dianne Russel",
       "author_designation": "Starbucks"
     },
     {
       "id": "2",
-      "count": "5",
+      "count": "1",
       "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Our Team participated in MORA UXplore 1.0, ranking 14th and gaining invaluable learning experiences in UI/UX design. Through four challenging phases and insightful workshops, we honed our skills in wireframing, user personas, and prototypes, ready to tackle new design challenges with confidence.",
       "author_name": "Kristin Watson",
       "author_designation": "Louis Vuitton"
     },
     {
       "id": "3",
-      "count": "5",
+      "count": "1",
       "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "I have completed the rigorous 2-year Soft Skills Development Certificate Course at the University of Ruhuna's Career Guidance Unit, covering 10 enriching modules. This transformative journey equipped me with invaluable skills and insights, showcased in my portfolio.",
       "author_name": "Kathryn Murphy",
       "author_designation": "McDonald's"
     }

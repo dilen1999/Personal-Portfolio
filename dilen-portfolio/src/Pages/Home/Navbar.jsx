@@ -36,8 +36,8 @@ function Navbar() {
     <nav className={`navbar ${navActive ? "active" : ""}`}>
       <div>
         {/* <img src="./img/logo.svg" alt="Logoipsum" /> */}
-        <h2>George dilen </h2>
-        
+        <h2>GEORGE</h2>
+        <p></p>
       </div>
       <a
         className={`nav__hamburger ${navActive ? "active" : ""}`}
@@ -102,7 +102,7 @@ function Navbar() {
               to="testimonial"
               className="navbar--content"
             >
-              Testimonials
+              Achievements
             </Link>
           </li>
         </ul>
